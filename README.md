@@ -5,6 +5,13 @@
 [![Maps](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)](https://www.openstreetmap.org)
 
 > **Your ultimate companion for navigating India's transport network with 105+ real bus routes, live maps, and community-driven features.**
+>
+## Current Design Goal
+ ### User page
+
+<img src="./Demo/User.png" alt="User page" width="100%" height="100%">
+<h3>Driver Page</h3>
+<img src="./Demo/Driver.png" alt="Driver page" width="100%" height="100%">
 
 ## ✨ Key Features
 
