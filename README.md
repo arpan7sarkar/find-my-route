@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📱 Download & Support
 
-[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arpan7sarkar/find-my-route)
+[![Get it on GitHub]([https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github](https://github.com/arpan7sarkar/find-my-route/releases/tag/v1))](https://github.com/arpan7sarkar/find-my-route)
 
 **Found this helpful?** ⭐ Star the repository to show your support!
 
